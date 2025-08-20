@@ -4,6 +4,11 @@
 
 ---
 
+## 🚀 Demo
+- **Live:** https://swirius.github.io/SkillUp-/
+
+---
+
 ## 🔍 Problemas que aborda
 - Ansiedad e inseguridad en entrevistas.
 - Alta tasa de inasistencias a entrevistas laborales (**4 de cada 10 jóvenes en Argentina**).
